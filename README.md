@@ -27,6 +27,20 @@ In this project we tried to build a *tic-tac-toe* game on the command line where
 - VSCode
 - Linter : Rubocop
 
+## Code testing
+  - Tool : Rspec
+  - Contributers :
+
+      👤 **Angel Mora**
+              - Github: [@angel-mora ](https://github.com/angel-mora)
+              - Linkedin: [Angel Mora](https://www.linkedin.com/in/angelmoma/)
+
+      👤 **Houda Cherkaoui**
+              - Github: [@CalyCherkaoui](https://github.com/CalyCherkaoui)
+              - Twitter: [@Houda59579688](https://twitter.com/Houda59579688)
+              - Linkedin: [Houda-Cherkaoui](https://www.linkedin.com/in/houda-cherkaoui-64106395/)
+
+
 ## Getting Started
 
 **Cloning a Git repository:**
